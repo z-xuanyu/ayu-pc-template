@@ -8,16 +8,16 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@element-plus/nuxt": "^1.0.4",
-    "@nuxtjs/tailwindcss": "^6.4.1",
+    "@element-plus/nuxt": "^1.0.5",
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.15.10",
     "autoprefixer": "^10.4.13",
-    "nuxt": "^3.2.2",
+    "nuxt": "^3.6.5",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.3.3"
   },
   "dependencies": {
-    "element-plus": "^2.3.3",
+    "element-plus": "^2.3.8",
     "ohash": "^1.0.0"
   }
 }
